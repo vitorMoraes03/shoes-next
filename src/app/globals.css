@@ -1,0 +1,21 @@
+:root {
+    --font-text: 1.6rem;
+    --font-medium: 1.8rem;
+    --font-big: 2rem;
+    --font-logo: 3.4rem;
+    --icons-size: 3.2rem;
+    --main-color: #190e02; 
+    --main-shade: #8c8680; 
+    --secondary-color: #e27c12; 
+    --secondary-shade: #fafaf7; 
+    --main-white: #fff3e8; 
+    --space-small: 1.5rem;
+    --space-medium: 3rem;
+    --space-big: 10rem;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
