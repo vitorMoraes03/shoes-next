@@ -7,9 +7,10 @@ import Image from 'next/image'
 const TagDiv = styled.div`
   display: flex;
   align-items: center;
-  
-  h1 {
-    letter-spacing: -1px;
+  padding: var(--space-small);
+
+  img {
+    cursor: pointer;
   }
 `
 
