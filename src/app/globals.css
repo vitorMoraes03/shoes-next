@@ -1,0 +1,37 @@
+:root {
+  --font-text: 1px;
+  --font-medium: 18px;
+  --font-big: 20px;
+  --font-logo: 34px;
+  --icons-size: 32px;
+  --main-color: #190e02;
+  --main-shade: #8c8680;
+  --secondary-color: #e27c12;
+  --secondary-shade: #fafaf7;
+  --main-white: #fff3e8;
+  --space-small: 15px;
+  --space-medium: 25px;
+  --space-big: 100px;
+  --margin-top: 70px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3 {
+  text-transform: uppercase;
+  letter-spacing: -1px;
+}
+
+input {
+  outline: none;
+}
+
+a {
+    text-decoration: none;
+}

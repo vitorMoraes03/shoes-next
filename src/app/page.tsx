@@ -1,11 +1,7 @@
-import Image from 'next/image'
-import styles from './page.module.css'
+import Main from "./components/main"
 
 export default function Home() {
   return (
-    <main className={styles.main}>
-      olá mundo!
-      teste 2...
-    </main>
+    <Main />
   )
 }
