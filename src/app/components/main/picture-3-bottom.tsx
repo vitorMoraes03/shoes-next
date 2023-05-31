@@ -43,7 +43,6 @@ function Picture3() {
         src="/images/RRRRRR_sneaker_high_fear.png"
         alt="single sample white shoe"
         width={200}
-
         height={200}
       />
       <div>
