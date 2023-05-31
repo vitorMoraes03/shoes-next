@@ -2,8 +2,8 @@
 
 import styled from 'styled-components'
 import Link from 'next/link'
-import PersonIcon from './icons/person-icon'
-import CartIcon from './icons/cart-icon'
+import PersonIcon from '../icons/person-icon'
+import CartIcon from '../icons/cart-icon'
 
 const TagDiv = styled.div`
   display: flex;

@@ -6,7 +6,7 @@ import Picture3 from './picture-3-bottom'
 import styled from 'styled-components'
 
 const TagMain = styled.main`
-    padding-top: var(--padding-top);
+    margin-top: var(--margin-top);
     display: grid;
     width: 100vw;
     height: 600px;

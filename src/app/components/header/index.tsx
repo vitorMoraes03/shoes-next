@@ -9,9 +9,9 @@ const TagHeader = styled.header`
   background-color: var(--main-color);
   color: var(--main-white);
   position: fixed;
-  /* top: 0px; */
+  top: 0;
   z-index: 100;
-  height: var(--padding-top);
+  height: var(--margin-top);
   width: 100%;
 
   svg,
