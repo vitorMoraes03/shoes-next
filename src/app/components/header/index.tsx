@@ -8,6 +8,10 @@ const TagHeader = styled.header`
   display: flex;
   background-color: var(--main-color);
   color: var(--main-white);
+  position: fixed;
+  // top: 0;
+  height: var(--padding-top);
+  width: 100%;
 
   svg,
   h1,

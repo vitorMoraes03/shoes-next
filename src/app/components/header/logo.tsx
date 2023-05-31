@@ -12,6 +12,10 @@ const TagDiv = styled.div`
   img {
     cursor: pointer;
   }
+
+  h1 {
+    text-transform: none;
+  }
 `
 
 function Logo() {
